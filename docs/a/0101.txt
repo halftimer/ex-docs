@@ -1,0 +1,78 @@
+次の英文を読み, 設問に答えなさい。
+
+“Some twenty years ago I saw, or thought I saw, a synchronal or simultaneous flashing of
+fireflies. I could hardly believe my eyes, for such a thing to occur among insects is certainly contrary to
+all natural laws.”
+
+So wrote Philip Laurent in the journal Science in 1917, as he joined the debate about this perplexing
+phenomenon. For 300 years, Western travelers to Southeast Asia had been returning with tales of
+enormous congregations of fireflies blinking on and off in unison, in displays that supposedly stretched
+for miles along the riverbanks. These anecdotal reports, often written in the romantic style favored by
+authors of travel books, provoked @ widespread disbelief. How could thousands of fireflies orchestrate
+their flashings so precisely and on such a vast scale?
+
+For decades, no one could come up with a plausible theory,( 1 )by the late 1960s, the pieces of the
+puzzle began to fall into place. One clue was so obvious that nearly everyone missed it. Synchronous
+fireflies not only flash in unison — they flash in rhythm, at a constant tempo. Even when isolated from
+one another, they still keep to a steady beat. That implies that each insect must have its own means of
+keeping time, some sort of internal clock. This hypothetical oscillator is still unidentified anatomically
+but is presumed to be a cluster of neurons somewhere in the firefly’s tiny brain. Much like the natural
+pacemaker in our hearts, the oscillator fires repetitively, generating an electrical rhythm that travels
+downstream to the firefly’s lantern and ultimately triggers its periodic flash.
+
+The second clue came from the work of the biologist John Buck, who did more than anyone else to
+make the study of synchronous fireflies scientifically respectable. In the mid-1960s, he and his wife,
+Elisabeth, traveled to Thailand for the first time, in hopes of seeing the spectacular displays for
+themselves. In an informal but revealing experiment, they captured scores of fireflies along the tidal
+rivers near Bangkok and released them in their darkened hotel room. The insects flitted about
+nervously, then gradually settled down all over the walls and ceiling, always spacing themselves at least
+10 centimeters apart. ( 2 ) they twinkled incoherently. As the Bucks watched in silent wonderment,
+pairs and then trios began to pulse in unison. Pockets of synchrony continued to emerge and grow,
+( 3 )as many as a dozen fireflies were blinking on and off in perfect concert.
+
+These observations suggested that the fireflies must somehow be adjusting their rhythms in response to
+the flashes of others. To test that hypothesis directly, Buck and his colleagues later conducted laboratory
+studies where they flashed an artificial light at a firefly (to mimic the flash of another) and measured its
+response. They found that an individual firefly will shift the timing of its subsequent flashes in a
+consistent, predictable manner, and that the size and direction of the shift depend on when in the cycle
+the stimulus was received. For some species, the stimulus always advanced the firefly’s rhythm, as if
+setting its clock ahead; for other species, the clock could be either delayed or advanced, depending on
+whether the firefly was just about to flash, whether it was halfway between flashes, and so on.
+
+( 4 ), the two clues suggested that the flash rhythm was regulated by an internal, resettable oscillator.
+( 5 ) that immediately suggested a possible synchronization mechanism: In a congregation of flashing
+fireflies, every one is continually sending and receiving signals, shifting the rhythms of others and being
+shifted by them in turn. Out of the hubbub, sync somehow emerges spontaneously.
+
+We are ( 6 ) led to entertain an explanation that seemed unthinkable just a few decades ago 一 the
+fireflies organize themselves. No maestro is required, and it doesn’t matter what the weather is like.
+Sync occurs through mutual cuing, in the same way that an orchestra can keep perfect time without a
+conductor. What’s counterintuitive here is that the insects don’t need to be intelligent. They have all the
+ingredients they need: Each firefly contains an oscillator — a little metronome — whose timing adjusts
+automatically in response to the flashes of others.
+
+(Adapted from Steven H. Strogatz, Sync: How Order Emerges from Chaos in the Universe, Nature, and
+Daily Life, 2003)
+下線部①が示す Philip Laurent の心境に最も近いものを選択肢 1一4 の中から選びなさい。
+1. What he saw was disgusting.             2. What he saw was dreadful.
+3. What he saw was incredible.                      4. What he saw was scary.
+[2] 下線部②④が指す事柄として最も適切なものを選択肢1 ~ 4 の中から選びなさい。
+
+1. Fireflies coordinate the flashing of their lights.
+
+2. Fireflies emit light along the riverbanks.
+
+3. Fireflies flock together in Southeast Asia.
+
+4. Fireflies move in liaison with other fireflies.
+
+[3] 空所( 1 )一( 6 ) ABs iL) REALS HARK 1 ~ 6 の中から選びなさい。同じ選択肢を一度
+選んではいけません。 なお, 文頭にくるべき語も小文字にしてあります。
+
+1. and                           2. at first                        3. but
+
+4. taken together               5. thus                          6. until
+[4] 次の文は英文全体の要旨を述べたものである。下記の空所 ( ア ) 一(カ ) に入る語として最も適切なも
+
+のを選択肢 1 一9の中から選びなさい。 同じ選択肢を二度選んではいけません。
+
