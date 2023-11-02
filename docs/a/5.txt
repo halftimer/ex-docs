@@ -1,0 +1,25 @@
+
+The following English text describes the ethical aspects of artificial intelligence research.
+Choose the most appropriate one as the "OMIA Sat" from the choices 1 ~ 9. Do not choose the same option twice.
+
+
+Many kinds of researchers 一 biologists, psychologists, anthropologists, and so on 一 encounter( 1 )
+at which they are asked about the ethics of their research. For now, A.I. research is mostly self-regulated
+—a matter of ( 2 ), not rules. “The fact that papers on A.I. do come up on Twitter nontrivially often”
+has made an( 3 ), Brent Hecht, a computerscience professor at Northwestern University, said. “The
+vast majority of researchers don’t want to be the subject of these types of discussions.” Last year, I
+participated in an online workshop organized by Partnership on A.I., a nonprofit coalition ( 4 ) by
+several of the biggest tech firms. In the workshop, which was focused on ( 5 ) more responsible
+research in the field, we discussed alternative release strategies: sharing new work in stages, or with
+specific audiences, or only after risks have been ( 6 ). Hecht, who helped write the Association for
+Computing Machinery blog post that called for a more organized ethics process, predicts that increasing
+numbers of researchers, (7 ) what their babies could grow up to become, will begin avoiding certain
+research topics.
+
+(Adapted from Matthew Hutson, “Who should stop unethical A.L?” The New Yorker, February 15, 2021)
+
+1. checkpoints                2. concluded                  3. contemplating
+
+4. encouraging                5. expression                 6. impression
+
+7. founded                   8. mitigated                   9. norms
